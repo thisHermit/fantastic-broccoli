@@ -1,6 +1,9 @@
 # college_pro
 
-A new Flutter application.
+[![Build Status](https://travis-ci.com/thisHermit/fantastic-broccoli.svg?branch=master)](https://travis-ci.com/thisHermit/fantastic-broccoli)
+[![Build status](https://ci.appveyor.com/api/projects/status/d1px3mlhtrsv0kpp?svg=true)](https://ci.appveyor.com/project/thishermit/fantastic-brocoli)
+
+**A new Flutter application.**
 
 ## Getting Started
 
