@@ -1,6 +1,6 @@
 # college_pro
 
-[![Build Status](https://travis-ci.com/thisHermit/fantastic-broccoli.svg?branch=master)](https://travis-ci.com/thisHermit/fantastic-broccoli)
+[![Build Status](https://travis-ci.com/thisHermit/fantastic-broccoli.svg?branch=master)](https://travis-ci.com/thisHermit/fantastic-broccoli) [![Join the chat at https://gitter.im/fantastic-broccoli/community](https://badges.gitter.im/fantastic-broccoli/community.svg)](https://gitter.im/fantastic-broccoli/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **A new Flutter application.**
 
